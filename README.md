@@ -1,8 +1,9 @@
-# The ASM Rosetta Stone
+# Learning Assembly (The ASM Rosetta Stone)
 This respository contains the ASM Rosetta Stone, a small snippet of C
 that you can use to learn a new assembly variant in a short amount of 
 time.
-
+## What's gonna be new?
+Hopefully we'll extend it in some parts to be more educational.
 ## Getting Started
 To get started with studying assembly languages using Rosetta Stone, follow these steps:
 
